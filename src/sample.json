@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "properties": {
+            "relation_id": 2996,
+            "title": "BC",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 2,
+        "properties": {
+            "relation_id": 2992,
+            "title": "BP",
+            "child_count": 1,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 3,
+        "properties": {
+            "relation_id": 15690,
+            "title": "Blacktown (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 4,
+        "properties": {
+            "relation_id": 2921,
+            "title": "CBRE Woodside Contract",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 5,
+        "properties": {
+            "relation_id": 2246,
+            "title": "FMC Contracts",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 6,
+        "properties": {
+            "relation_id": 2011,
+            "title": "FMC Management",
+            "child_count": 1,
+            "parent_relation_id": 2992
+        }
+    },
+    {
+        "id": 7,
+        "properties": {
+            "relation_id": 2245,
+            "title": "FMC Marketing",
+            "child_count": 1,
+            "parent_relation_id": 2011
+        }
+    },
+    {
+        "id": 8,
+        "properties": {
+            "relation_id": 2255,
+            "title": "FMC Training Dept",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 9,
+        "properties": {
+            "relation_id": 2748,
+            "title": "FMC WA",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 10,
+        "properties": {
+            "relation_id": 2048,
+            "title": "Generic Audit Forms",
+            "child_count": 0,
+            "parent_relation_id": 2245
+        }
+    },
+    {
+        "id": 11,
+        "properties": {
+            "relation_id": 2994,
+            "title": "MC",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 12,
+        "properties": {
+            "relation_id": 2995,
+            "title": "MP",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 13,
+        "properties": {
+            "relation_id": 15688,
+            "title": "Merrylands (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 14,
+        "properties": {
+            "relation_id": 15684,
+            "title": "Mount Druitt (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 15,
+        "properties": {
+            "relation_id": 2993,
+            "title": "NR",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 16,
+        "properties": {
+            "relation_id": 15691,
+            "title": "NSW Retail S6",
+            "child_count": 13,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 17,
+        "properties": {
+            "relation_id": 15682,
+            "title": "Penrith (SG)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 18,
+        "properties": {
+            "relation_id": 15687,
+            "title": "Penrith (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 19,
+        "properties": {
+            "relation_id": 15680,
+            "title": "Richmond (SG)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 20,
+        "properties": {
+            "relation_id": 15686,
+            "title": "Richmond (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 21,
+        "properties": {
+            "relation_id": 15681,
+            "title": "Rouse Hill (SG)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 22,
+        "properties": {
+            "relation_id": 15679,
+            "title": "Seven Hills (SG)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 23,
+        "properties": {
+            "relation_id": 15685,
+            "title": "Seven Hills (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 24,
+        "properties": {
+            "relation_id": 15678,
+            "title": "St Marys (SG)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 25,
+        "properties": {
+            "relation_id": 15683,
+            "title": "St Marys (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    },
+    {
+        "id": 26,
+        "properties": {
+            "relation_id": 15602,
+            "title": "Testing Purpose",
+            "child_count": 0,
+            "parent_relation_id": ""
+        }
+    },
+    {
+        "id": 27,
+        "properties": {
+            "relation_id": 15689,
+            "title": "Windsor (W)",
+            "child_count": 0,
+            "parent_relation_id": 15691
+        }
+    }
+]
